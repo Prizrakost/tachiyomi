@@ -1,3 +1,12 @@
+# Tachiyomi - Feature Freeze
+This repo is intended to be a feature frozen fork of Tachiyomi maintained only for compatibility with later Android versions.
+
+The original Tachiyomi was shutdown due to [recent events](https://tachiyomi.org/news/2024-01-13-goodbye) and will no longer be officially maintained.
+
+I am not affiliated with the original Tachiyomi or its developers.
+
+# Original Readme
+
 | Build | Stable | Weekly Preview | Contribute |
 |-------|--------|----------------|------------|
 | [![CI](https://github.com/tachiyomiorg/tachiyomi/actions/workflows/build_push.yml/badge.svg)](https://github.com/tachiyomiorg/tachiyomi/actions/workflows/build_push.yml) | [![stable release](https://img.shields.io/github/release/tachiyomiorg/tachiyomi.svg?maxAge=3600&label=download)](https://github.com/tachiyomiorg/tachiyomi/releases) | [![latest preview build](https://img.shields.io/github/v/release/tachiyomiorg/tachiyomi-preview.svg?maxAge=3600&label=download)](https://github.com/tachiyomiorg/tachiyomi-preview/releases) | [![Translation status](https://hosted.weblate.org/widgets/tachiyomi/-/svg-badge.svg)](https://hosted.weblate.org/engage/tachiyomi/?utm_source=widget) |
